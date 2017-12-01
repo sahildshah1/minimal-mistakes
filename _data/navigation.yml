@@ -8,6 +8,8 @@ main:
     url: /posts/
   - title: "Tutorials"
     url: /tutorials/
+  - title: "Talks"
+    url: /talks/
   - title: "Resources"
     url: /resources/
 
