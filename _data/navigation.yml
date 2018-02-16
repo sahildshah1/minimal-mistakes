@@ -3,7 +3,7 @@ main:
   #
   
   - title: "Welcome"
-    url: /Welcome/
+    url: /welcome/
   - title: "Posts"
     url: /posts/
   - title: "Tutorials"
