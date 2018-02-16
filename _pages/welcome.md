@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /welcome/
 author_profile: true
 ---
 
