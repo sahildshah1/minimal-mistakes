@@ -1,7 +1,13 @@
 ---
 published: true
-title: KEGG pipeline
+title: Kaggle Titanic
 <!-- categories: [Classes, Data Science, Linear Regression, Machine Learning, Object-Oriented Programming, Python] -->
 ---
 
-<!-- Pull KEGG, merge etc  -->
+
+
+Getting started with Python 
+
+#https://www.kaggle.com/c/titanic#tutorials
+
+What I did and what I learned ? 

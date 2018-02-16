@@ -1,7 +1,12 @@
 ---
 published: true
-title: KEGG pipeline
+title: Resources
 <!-- categories: [Classes, Data Science, Linear Regression, Machine Learning, Object-Oriented Programming, Python] -->
 ---
 
-<!-- Pull KEGG, merge etc  -->
+
+# Papers and Textbooks
+
+# Workflow Resources
+
+# Documentation 
