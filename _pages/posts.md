@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Write a pargraph description of the idea based on 
+<!-- Write a pargraph description of the idea based on 
 
 In our previous study, we presented a new analysis technique, NIDG, that
 identifies driver genes by finding genes with localized differential expression
@@ -25,4 +25,4 @@ the performance of our algorithm. Most pathway databases (including KEGG) are
 not phenotype-specific and we therefore have to assume that the network doesn't
 change between conditions. Furthermore, our algorithm calculates geodesic
 distances between genes, but does not take into account the direction or type of
-interaction or the global structure of the network.
+interaction or the global structure of the network. -->

@@ -4,13 +4,13 @@ permalink: /resources/
 author_profile: true
 ---
 
-
+<!-- 
 # Papers and Textbooks
 
 # Workflow Resources
 
 # Documentation 
-
+ -->
 
 
 <!-- - Add Konrad Kording on papers 
