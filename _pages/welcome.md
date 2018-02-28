@@ -19,4 +19,4 @@ that can be targeted therapeutically.
 
 On the weekends, I tutor returning students at Northwestern's School of
 Professional Studies and catch up on the latest novel that I'm reading
-(currently Book 2: A Man in Love by by Karl Ove Knausgaard).
+(currently — Karl Ove Knausgaard's Book 2: A Man in Love)

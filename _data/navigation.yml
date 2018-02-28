@@ -6,12 +6,12 @@ main:
     url: /welcome/
   - title: "Posts"
     url: /posts/
-  - title: "Tutorials"
-    url: /tutorials/
-  - title: "Talks"
-    url: /talks/
-  - title: "Resources"
-    url: /resources/
+  # - title: "Tutorials"
+  #   url: /tutorials/
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Resources"
+  #   url: /resources/
 
  
   # - title: "Quick-Start Guide"

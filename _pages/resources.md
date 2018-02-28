@@ -1,26 +1,43 @@
+
 ---
 layout: single
 permalink: /resources/
 author_profile: true
----
+-- 
 
 <!-- 
-# Papers and Textbooks
+Descriptoin:
 
-# Workflow Resources
+Complied from Google Docs wiki-Coding, ~/Desktop 2018  02 -16 -->
 
-# Documentation 
- -->
+Here are the guides, tools, papers, etc that I keep coming back to:
+
+## Coding best practices:
+
+### Examples of documentation 
+- https://help.github.com/articles/about-readmes/
+- https://chris.beams.io/posts/git-commit/
+- http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
 
 
-<!-- - Add Konrad Kording on papers 
+### Workflow and organization: 
+- https://www.svds.com/jupyter-notebook-best-practices-for-data-science/
+- https://edwinth.github.io/blog/workflow/
+- http://changhsinlee.com/exploration-product-workflow/
+- https://nicercode.github.io/blog/2013-04-05-projects/
 
-Writing is an exercise organized thinking and so this guide on writing
-is secretly a guide on how to organize thinking around a research project
-from start to finish 
 
-- Jeff Leek on how to read papers
+## Development environment
 
-You don't have to read papers end to end 
+- Sublime Text 2 with 'Git Gutter' and  'Vintage Mode'
+- https://git.github.io/git-reference/
+- http://colorbrewer2.org/
+- igraph (specifically the components, decompose, distances functions)
 
-- git ref . org -->
+
+## Science 
+
+- https://jxyzabc.blogspot.com/
+- https://doi.org/10.1371/journal.pcbi.1005619
+- https://github.com/jtleek/readingpapers
+
