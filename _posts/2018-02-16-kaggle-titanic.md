@@ -1,7 +1,7 @@
 ---
 published: true
 title: Kaggle Titanic
-<!-- categories: [Classes, Data Science, Linear Regression, Machine Learning, Object-Oriented Programming, Python] -->
+
 ---
 
 Getting started with Python 
@@ -11,4 +11,6 @@ Getting started with Python
 What I did and what I learned  and Link to Git Hub ? 
 
 Gists
+
+Goal : Practice Python and learn new things and practie data analysis how other people analyze data
 
