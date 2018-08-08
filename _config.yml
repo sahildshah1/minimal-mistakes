@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en"
-title                    : "SAHIL D. SHAH ONLINE"
+title                    : "SAHIL D. SHAH"
 title_separator          : "-"
 name                     : "Sahil D. Shah"
 description              : "An amazing website."
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Sahil Shah"
   avatar           : "/assets/images/SDS-headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student"
+  bio              : "Applied Math / Computational Biology / Data Science — PhD Student at Northwestern University"
   location         : "Chicago"
   email            : "sahil.shah@u.northwestern.edu"
   uri              :
