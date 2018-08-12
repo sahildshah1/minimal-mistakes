@@ -15,6 +15,9 @@ yield “pathway-level” results that are difficult to target. There is therefo
 need for algorithms that can precisely identify genes for treatment while taking
 into account the interaction network.
 
+
+
+
 To fill this gap, we present GeneSurrounder, a new algorithm that ranks genes
 based on the evidence that they are sources of disruption on the network of
 interacting genes. Since the effects of a “disruptive” source gene would
