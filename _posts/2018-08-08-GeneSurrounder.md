@@ -1,6 +1,7 @@
 
 ---
 title: GeneSurrounder: Network-based identification of disease genes
+
 ---
 
 New technologies have made it possible to probe complex diseases and identify
@@ -11,7 +12,6 @@ system. However, existing tools either neglect interactions between genes, or
 yield “pathway-level” results that are difficult to target. There is therefore a
 need for algorithms that can precisely identify genes for treatment while taking
 into account the interaction network.
-
 
 
 
