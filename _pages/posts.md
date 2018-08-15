@@ -11,3 +11,7 @@ Blog posts about my PhD research
 
 [GeneSurrounder](https://sahildshah1.github.io/GeneSurrounder/)  
 
+
+Miscellaneous blog posts 
+
+
