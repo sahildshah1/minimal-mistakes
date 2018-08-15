@@ -1,6 +1,5 @@
 
 ---
-published: true
 title: GeneSurrounder: Network-based identification of disease genes
 ---
 
