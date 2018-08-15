@@ -2,7 +2,6 @@
 ---
 published: true
 title: GeneSurrounder: Network-based identification of disease genes
-
 ---
 
 New technologies have made it possible to probe complex diseases and identify
