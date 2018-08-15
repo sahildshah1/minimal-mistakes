@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "GeneSurrounder: Network-based identification of disease genes"
 ---
 
