@@ -4,15 +4,15 @@ permalink: /posts/
 author_profile: true
 ---
 
-Analyses of interesting datasets
+## Analyses of interesting datasets
 
 
-Blog posts about my PhD research
+## Blog posts about my PhD research
 
 [GeneSurrounder](https://sahildshah1.github.io/GeneSurrounder/)  
 
 
-Explanations of technical concepts 
+## Explanations of technical concepts 
 
 [Intro to Jupyter notebooks](https://docs.google.com/presentation/d/1HsDFKNDNp4-dms5JUGZiv8SDOpfa2FzxiOizS65_gig/edit?usp=sharing)
 
@@ -23,7 +23,24 @@ co-expression networks](https://docs.google.com/presentation/d/1Zwc3FA9h0_cIUlcD
 [COSINE (Ma et al. 2011), nDGE (Wu et al. 2013) and DGCA (McKenzie et al 2016): Algorithms to analyze gene expression profiles](https://docs.google.com/presentation/d/1AYGPOBZaPaedK2xa2p_V4uCElYk_i9tAYVaiMueIA-k/edit?usp=sharing)
 
 
-Miscellaneous blog posts 
+[Intro to Shiny apps](https://github.com/sahildshah1/shiny-groupmtg/blob/master/figs/main.pdf)
+
+[Intro to Shiny](https://github.com/sahildshah1/mglcRWorkshop/blob/master/RWorkshop.pdf)
+
+[Siggiridou and Kugiumtzis 2016: An algorithm to infer casual networks from 
+time-series data using Granger Causality](https://drive.google.com/file/d/1bpves7-zpKIhTpZA2f6NLlJynSDBkIqi/view?usp=sharing)
+
+[iRafNet (Petralia et al 2015): An algorithm that infers gene regulatory networks using
+Random Forests](https://drive.google.com/file/d/1oma2KF-FnkC4M2D0ThoQMsdLLT-H2bw3/view?usp=sharing)
+
+
+[LEAN (Gwinner et al. 2016), iPANDA (Ozerov et al. 2016), DISCERN (Grechkin 2016): 
+Algorithms to anayze gene expression profiles(https://drive.google.com/file/d/1ISUlflpnK2It3iAI_bXyDXxx3R0-bnCr/view?usp=sharing)
+
+
+
+
+## Miscellaneous blog posts 
 
 [Hardware and software that I use](https://sahildshah1.github.io/usesthis/)
 
