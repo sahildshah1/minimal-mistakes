@@ -4,11 +4,8 @@ permalink: /posts/
 author_profile: true
 ---
 
-# Posts 
-
-
-## Analyses of interesting datasets
-
+Blog posts 
+--------------------
 
 ## Blog posts about my PhD research
 
