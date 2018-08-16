@@ -2,10 +2,9 @@
 layout: single
 permalink: /posts/
 author_profile: true
+title: Blog posts
 ---
 
-Blog posts 
---------------------
 
 ## Blog posts about my PhD research
 
