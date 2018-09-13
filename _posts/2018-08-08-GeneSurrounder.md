@@ -3,7 +3,7 @@ published: true
 title: "Summary of our new bioinformatics algorithm: GeneSurrounder"
 ---
 
-## GeneSurrounder: Network-based identification of disease genes
+## GeneSurrounder: Network-based identification of disease genes in expression data 
 
 New technologies have made it possible to probe complex diseases and identify
 genes for precision medicine. These technologies yield large datasets that
@@ -24,6 +24,8 @@ demonstrate that the results are more reproducible than competing techniques. We
 also find that our method is able to identify genes known to impact ovarian
 cancer. These results suggest that GeneSurrounder is able to reproducibly detect
 specific therapeutic gene targets.
+
+[GeneSurrounder ISMB 2018 conference poster](https://drive.google.com/file/d/1HYteZfmJqg7YVqasT1YeP05SPnhVnsll/view?usp=sharing)
 
 
 
