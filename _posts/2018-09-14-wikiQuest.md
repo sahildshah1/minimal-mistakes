@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Getting started with Northwestern's computing cluster Quest"
+title: "Getting started with Northwestern's computing cluster"
 ---
 
 Here are the notes I took when I was getting started with Northwestern's high
