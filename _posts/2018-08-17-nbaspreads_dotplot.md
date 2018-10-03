@@ -7,7 +7,7 @@ title: "Are Vegas's NBA spreads accurate?"
 
 When sports betting was [legalized](https://www.nytimes.com/2018/05/14/us/politics/supreme-court-sports-betting-new-jersey.html) this 
 summer, it sparked a debate amongst my friends about whether Vegas is accurate
-over the course of a season across the NBA  (or if there's a bias that we
+in setting spreads over the course of a season across the NBA  (or if there's a bias that we
 could theoretically exploit to `beat the house.')
 
 In addition to taking bets on whether a team will win or lose straight up, Vegas
@@ -21,21 +21,19 @@ accurate, on average every team would win 50% of the time against the spread.
 
 With data on the on the win-loss records against the spread for the 2017-2018
 NBA season, we can calculate how far each team was from 0.500 win record against
-the spread and investigate the variation in this data.
-
-I performed this analysis using Python 3 in a Jupyter notebook and here's a link
-to my notebook:
+the spread and investigate the variation in this data. I performed this analysis
+using Python 3 in a Jupyter notebook: 
 
 
 
 Here's a dot plot of each team's record straight up and against the spread.
 
-![](/assets/images/.png?raw=true){:.center-image}
+![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true){:.center-image}
 
 
 Here's a distribution of how far each team was from a 0.500 win record. 
 
-![](/assets/images/.png?raw=true){:.center-image}
+![histogram](/assets/images/deliverables-nbaspreadsipynb-hist.png?raw=true){:.center-image}
 
 
 If Vegas were perfectly accurate, every team would have a 0.500 win record
@@ -76,13 +74,13 @@ Since this range contains 0, we would conclude that Vegas is on average accurate
 I found these resources helpful for getting started with and using Python to 
 perform this analysis: 
 
-- https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
+- [Selecting Subsets of Data in Pandas](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c)
 
-- - https://chrisalbon.com/#python
+- [Technical notes on Python](https://chrisalbon.com/#python)
 
-- https://seaborn.pydata.org/examples/
+- [Seaborn examples](https://seaborn.pydata.org/examples/)
 
-- https://stackoverflow.com/questions/47155569/difference-in-plotting-with-different-matplotlib-versions
+- [Stack Overflow issue #47155569](https://stackoverflow.com/questions/47155569/difference-in-plotting-with-different-matplotlib-versions)
 
 
 
