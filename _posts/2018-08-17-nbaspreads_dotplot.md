@@ -14,16 +14,18 @@ In addition to taking bets on whether a team will win or lose straight up, Vegas
 also offers a `spread' that handicaps the favored team. Vegas wants to set the point
 spreads so that the chance of a team winning or losing is 50-50. This
 incentivizes an equal number of bets on both sides of the bet and allows Vegas
-to make money every time directly from commissions. Therefore if Vegas is
-accurate, on average every team would win 50% of the time against the spread.
+to make money every time directly from commissions. Therefore **if Vegas is
+accurate, on average every team would win 50% of the time against the spread.**
 
 ## Results: Are Vegas's NBA spreads accurate?
 
-With data on the on the win-loss records against the spread for the 2017-2018
-NBA season, we can calculate how far each team was from 0.500 win record against
+With [data](http://www.vegasinsider.com/nba/against-the-spread/) on the on 
+the win-loss records against the spread for the 2017-2018 NBA season, 
+we can calculate how far each team was from 0.500 win record against
 the spread and investigate the variation in this data. I performed this analysis
-using Python 3 in a Jupyter notebook: 
+using Python in a Jupyter notebook: 
 
+[** NBA Spreads Jupyter notebook**](https://nbviewer.jupyter.org/github/sahildshah1/funData-playground/blob/master/deliverables/nba-spreads.ipynb#)
 
 
 Here's a dot plot of each team's record straight up and against the spread.
