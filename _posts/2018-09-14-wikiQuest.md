@@ -62,7 +62,7 @@ performance computing cluster [Quest](http://www.it.northwestern.edu/research
     https://kb.northwestern.edu/page.php?id=70710
 
 
-## Installing R package 
+## Installing R packages
 
 -   For info on using R on Quest (including managing R packages): 
     https://kb.northwestern.edu/page.php?id=71270

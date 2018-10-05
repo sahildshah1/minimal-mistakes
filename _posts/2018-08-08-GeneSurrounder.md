@@ -1,20 +1,17 @@
 ---
 published: true
-title: "PhD project: Finding gene targets from data"
+title: "PhD project: Finding `disruptive' genes from data"
 ---
 
 ## Introduction 
 
 One of my PhD projects involved developing and testing a new bioinformatics algorithm
-(that we called `GeneSurrounder') to identify genes from high-dimensional
-biological datasets that could be targeted experimentally or therapeutically.
+(which we called `GeneSurrounder') to find `disruptive' genes from high-dimensional
+biological data that could be promising candidates to target therepeutically. 
 
 We recently presented a [poster of our work at the ISMB 2018 conference.](https://drive.google.com/file/d/1HYteZfmJqg7YVqasT1YeP05SPnhVnsll/view?usp=sharing)
 
-## Scientific summary 
-
-GeneSurrounder: Network-based identification of disease genes in expression data
-------------------------------------------------------------------------------- 
+## Scientific summary: Network-based identification of disease genes in expression data
 
 New technologies have made it possible to probe complex diseases and identify
 genes for precision medicine. These technologies yield large datasets that
