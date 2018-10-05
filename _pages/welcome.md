@@ -7,7 +7,7 @@ author_profile: true
 Hi! I'm Sahil. Welcome to my website. I'm an applied math PhD student at
 Northwestern  University in Chicago and have been working in a computational
 biology lab for  the past four years. I'm looking for data science opportunities
-(preferably in the Northeast) and am willing to relocate!
+and am willing to relocate!
 
 My research projects at Northwestern have been driven by the automation of
 biological experiments. These technologies have made it possible to probe
@@ -19,4 +19,4 @@ that can be targeted therapeutically.
 
 On the weekends, I tutor returning students at Northwestern's School of
 Professional Studies and catch up on the latest novel that I'm reading
-(currently — Karl Ove Knausgaard's Book 2: A Man in Love)
+(currently — Karl Ove Knausgaard's A Man in Love)

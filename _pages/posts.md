@@ -16,7 +16,7 @@ title: Blog posts
 [Are Vegas’s NBA spreads accurate?](https://sahildshah1.github.io/nbaspreads_dotplot/)
 
 
-## Explanations of technical math and concepts 
+## Explanations of technical concepts 
 
 [TSNet (Petralia et al. 2018): An algorithm that infers tumor cell specific 
 co-expression networks](https://docs.google.com/presentation/d/1Zwc3FA9h0_cIUlcD6o3ea0vi-Rqi2dT0cSRTB4Mml58/edit?usp=sharing)
@@ -29,12 +29,11 @@ Random Forests](https://drive.google.com/file/d/1oma2KF-FnkC4M2D0ThoQMsdLLT-H2bw
 
 [COSINE (Ma et al. 2011), nDGE (Wu et al. 2013) and DGCA (McKenzie et al 2016): Algorithms to analyze gene expression profiles](https://docs.google.com/presentation/d/1AYGPOBZaPaedK2xa2p_V4uCElYk_i9tAYVaiMueIA-k/edit?usp=sharing)
 
-
 [LEAN (Gwinner et al. 2016), iPANDA (Ozerov et al. 2016), DISCERN (Grechkin 2016): 
 Algorithms to anayze gene expression profiles](https://drive.google.com/file/d/1ISUlflpnK2It3iAI_bXyDXxx3R0-bnCr/view?usp=sharing)
 
 
-## Blog posts about coding 
+## Blog posts and presentations about coding 
 
 [Hardware and software that I use](https://sahildshah1.github.io/usesthis/)
 
