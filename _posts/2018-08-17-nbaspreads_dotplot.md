@@ -29,7 +29,11 @@ to pull, scrub and analyze the data is available** on GitHub as a
 Here's what the win-loss records against the spread and straight up look like
 for the 2017-2017 NBA season: 
 
-![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true){: .center-image }
+
+![dotplot]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaspreadsipynb-dotplot.png){: .align-center}
+
+
+<!-- ![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true) -->
 
 
 Above is the fraction of total wins straight up and against the spread for all
