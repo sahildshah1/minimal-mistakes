@@ -29,7 +29,7 @@ to pull, scrub and analyze the data is available** on GitHub as a
 Here's what the win-loss records against the spread and straight up look like
 for the 2017-2017 NBA season: 
 
-![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true){:.center-image}
+![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true){: .center-image }
 
 
 Above is the fraction of total wins straight up and against the spread for all
@@ -38,32 +38,34 @@ Above is the fraction of total wins straight up and against the spread for all
 0.5 on the second dot plot. Here's a distribution of how far each team was from
 a 0.500 win record.
 
-![histogram](/assets/images/deliverables-nbaspreadsipynb-hist.png?raw=true){:.center-image}
+![histogram](/assets/images/deliverables-nbaspreadsipynb-hist.png?raw=true){: .center-image }
 
 Based on this distribution of data, the **average deviation from a 0.500 record
-(against the spread) for the 2017-2018 NBA season was -0.013** Vegas therefore
+(against the spread) for the 2017-2018 NBA season was -0.013.** Vegas therefore
 tended to set the lines slightly too high but  we want to test whether this is
 statistically significant.
 
 
 Rather than make any assumptions about how the deviations from 0.500 are
-distributed, we calculate an empirical bootstrap confidence interval. 
+distributed, we calculate an **empirical bootstrap confidence interval**. 
 
-To learn more about about the empirical bootstrap and how and why it is calculated
-(see [sections 6.3 and 6.4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf) of
-MIT18_05S14_Reading24's class notes. The 95
+To learn more about about the empirical bootstrap and how and why it is calculated, see 
+[sections 6.3 and 6.4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf) of
+MIT OpenCourseware's Intro to Probability and Statistics (18.05) class notes from
+session 24. The 95
 percent confidence interval  will correspond to a range of values that are
 **not** rejected at a 0.05 significance level. To learn 
 more about the relationship between confidence intervals and hypothesis testing
-see [section 4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading23a.pdf) MIT18_05S14_Reading23a's
-class notes. 
+see [section 4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading23a.pdf) from MIT OpenCourseware's Intro to Probability and Statistics (18.05) class notes from
+session 23a. 
+ 
 
 Therefore, if 0 fall within the
 95 percent confidence interval we would conclude that Vegas is on average
 accurate and if 0 falls outside of the 95 percent confidence interval we would
 conclude that Vegas is on average inaccurate. After estimating the distribution of  how much the sample mean varies around
-an underlying population mean, we find that the 95 percent confidence interval is [-0.034, 0.006]
-Since this range contains 0, we would **conclude that Vegas is on average accurate.**
+an underlying population mean, **we find that the 95 percent confidence interval is [-0.034, 0.006].
+Since this range contains 0, we would conclude that Vegas is on average accurate.**
 
 
 ## Methods: Notes on using Python to perform this analysis 
@@ -78,10 +80,6 @@ perform this analysis:
 - [Seaborn examples](https://seaborn.pydata.org/examples/)
 
 - [Stack Overflow issue #47155569](https://stackoverflow.com/questions/47155569/difference-in-plotting-with-different-matplotlib-versions)
-
-
-
-
 
 
 
