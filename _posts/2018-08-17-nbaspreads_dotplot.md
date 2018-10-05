@@ -33,16 +33,14 @@ for the 2017-2017 NBA season:
 ![dotplot]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaspreadsipynb-dotplot.png){: .align-center}
 
 
-<!-- ![dotplot](/assets/images/deliverables-nbaspreadsipynb-dotplot.png?raw=true) -->
-
-
 Above is the fraction of total wins straight up and against the spread for all
 30 teams in the NBA. If Vegas were perfectly accurate, every team would have a
 50% win record (against the spread) and there wouldn't be any variation around
 0.5 on the second dot plot. Here's a distribution of how far each team was from
 a 0.500 win record.
 
-![histogram](/assets/images/deliverables-nbaspreadsipynb-hist.png?raw=true){: .center-image }
+
+![histogram]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaspreadsipynb-hist.png){: .align-center}
 
 Based on this distribution of data, the **average deviation from a 0.500 record
 (against the spread) for the 2017-2018 NBA season was -0.013.** Vegas therefore
