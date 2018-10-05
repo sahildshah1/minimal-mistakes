@@ -1,9 +1,20 @@
 ---
 published: true
-title: "Summary of our new bioinformatics algorithm: GeneSurrounder"
+title: "PhD project: Finding gene targets from data"
 ---
 
-## GeneSurrounder: Network-based identification of disease genes in expression data 
+## Introduction 
+
+One of my PhD projects involved developing and testing a new bioinformatics algorithm
+(that we called `GeneSurrounder') to identify genes from high-dimensional
+biological datasets that could be targeted experimentally or therapeutically.
+
+We recently presented a [poster of our work at the ISMB 2018 conference.](https://drive.google.com/file/d/1HYteZfmJqg7YVqasT1YeP05SPnhVnsll/view?usp=sharing)
+
+## Scientific summary 
+
+GeneSurrounder: Network-based identification of disease genes in expression data
+------------------------------------------------------------------------------- 
 
 New technologies have made it possible to probe complex diseases and identify
 genes for precision medicine. These technologies yield large datasets that
@@ -24,10 +35,6 @@ demonstrate that the results are more reproducible than competing techniques. We
 also find that our method is able to identify genes known to impact ovarian
 cancer. These results suggest that GeneSurrounder is able to reproducibly detect
 specific therapeutic gene targets.
-
-[GeneSurrounder ISMB 2018 conference poster](https://drive.google.com/file/d/1HYteZfmJqg7YVqasT1YeP05SPnhVnsll/view?usp=sharing)
-
-
 
 
 

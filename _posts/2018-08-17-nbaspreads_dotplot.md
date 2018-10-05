@@ -70,7 +70,20 @@ an underlying population mean, **we find that the 95 percent confidence interval
 Since this range contains 0, we would conclude that Vegas is on average accurate.**
 
 
-## Methods: Notes on using Python to perform this analysis 
+## Methods: Notes on using statistics and Python to perform this analysis 
+
+To learn more about about the empirical bootstrap and how and why it is calculated, see 
+[sections 6.3 and 6.4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf) of
+MIT OpenCourseware's Intro to Probability and Statistics (18.05) class notes from
+session 24.
+
+
+To learn 
+more about the relationship between confidence intervals and hypothesis testing
+see [section 4](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading23a.pdf) from MIT OpenCourseware's Intro to Probability and Statistics (18.05) class notes from
+session 23a. 
+
+
 
 I found these resources helpful for getting started with and using Python to 
 perform this analysis: 
