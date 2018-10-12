@@ -1,15 +1,15 @@
 ---
 published: true
-title: "PhD project: Finding `disruptive' genes from data"
+title: "PhD project: Designing a new tool to find disease-associated genes "
 ---
 
-## Introduction 
-
 One of my PhD projects involved developing and testing a new bioinformatics algorithm
-(which we called `GeneSurrounder') to find `disruptive' genes from high-dimensional
-biological data that could be promising candidates to target therepeutically. 
+(which we called 'GeneSurrounder') to find individual genes that influence 
+disease associated mechanisms. This project was joint work with [Dr. Rosemary Braun](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23119])-
 
 We recently presented a [poster of our work at the ISMB 2018 conference.](https://drive.google.com/file/d/1HYteZfmJqg7YVqasT1YeP05SPnhVnsll/view?usp=sharing)
+The work is currently under review and [available on the arXiv](https://arxiv.org/abs/1705.10922).
+
 
 ## Scientific summary: Network-based identification of disease genes in expression data
 
