@@ -8,7 +8,9 @@ title: Blog posts
 
 ## Blog posts about my PhD research (using R)
 
-[Finding `disruptive' genes from data"](https://sahildshah1.github.io/GeneSurrounder/)
+[Designing a new tool to find disease-associated genes](https://sahildshah1.github.io/GeneSurrounder/)
+
+[Comparing gene-network analysis tools](https://sahildshah1.github.io/NetworkReview/)
 
 
 ## Analyses of interesting datasets (using Python)
