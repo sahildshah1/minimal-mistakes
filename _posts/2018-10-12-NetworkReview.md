@@ -7,7 +7,7 @@ title: "PhD project: Comparing gene-network analysis tools"
 One of my PhD projects involved evaluating and discussing 'network-based pathway
 analysis techniques', algorithms which find disease associated mechanisms by 
 taking into account the network of interactions between genes and their products.
-This project was joint work with [Dr. Rosemary Braun](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23119])
+This project was joint work with [Dr. Rosemary Braun.](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23119)
 
 We presented a [poster of our work at the Chicago Area SIAM Student Conferencee](https://drive.google.com/file/d/0BwwWdkWAoHm0aWkyMHlnS09WckU/view?usp=sharing) and 
 the work is currently [available on the arXiv](https://arxiv.org/abs/1411.1993).
