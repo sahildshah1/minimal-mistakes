@@ -15,9 +15,7 @@ different role in another year -->
 With [data](https://www.basketball-reference.com/leagues/NBA_2018_per_game.html) 
 on 469 NBA players 2017-2017 per game stats, we can interrogate the number of 
 differt kinds of NBA players. The **Python code I wrote to pull, scrub, and 
-analyze the data is available** on Github as a [Jupyter notebook](
-
-)
+analyze the data is available** on Github as a [Jupyter notebook](https://nbviewer.jupyter.org/github/sahildshah1/funData-playground/blob/master/deliverables/nba-players.ipynb)
 
 <!-- 
 on the on 
