@@ -35,7 +35,7 @@ analyze the data is available** on Github as a
 Here's what Points Per Game (PS/G), Total Rebounds Per Game (TRB), and Assists
 per Game (AST) look like for the 2017-2018 NBA season:
 
-![dotplot]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaplayersipynb-splom.png =50x){: .align-center}
+![dotplot]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaplayersipynb-splom.png){: .align-center}
 
 Above is a scatter plot matrix of PS/G, TRB, and AST for 469 players for the
 2017-2018 NBA season. Note that each stat is on a different scale. Before 
