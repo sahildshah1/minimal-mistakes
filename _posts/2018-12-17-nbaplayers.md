@@ -110,7 +110,7 @@ K means algorithm and Lloyd's algorithm?
 I found these resources helpful for getting started with and using Python to 
 perform this analysis: 
 
-- [Numpy tutoriall](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [Numpy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 - [Pyplot tutorial](https://matplotlib.org/1.3.1/users/pyplot_tutorial.html)
 - [Matplotlib Gallery](https://matplotlib.org/gallery/index.html)
 
