@@ -4,7 +4,11 @@ main:
   
   - title: "About Me"
     url: /aboutme/
-  - title: "Posts"
+  - title: "Code"
+    url: /code/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "All Posts"
     url: /posts/
   # - title: "Tutorials"
   #   url: /tutorials/

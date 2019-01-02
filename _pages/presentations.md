@@ -1,24 +1,9 @@
 ---
 layout: single
-permalink: /posts/
+permalink: /presentations/
 author_profile: true
-title: Blog posts
+title: Presentations created for various tutorials
 ---
-
-
-## Blog posts about my PhD research (using R)
-
-[Designing a new tool to find disease-associated genes](https://sahildshah1.github.io/GeneSurrounder/)
-
-[Comparing gene-network analysis tools](https://sahildshah1.github.io/NetworkReview/)
-
-
-## Analyses of interesting datasets (using Python)
-
-[Are Vegas’s NBA spreads accurate?](https://sahildshah1.github.io/nbaspreads_dotplot/)
-
-[How many different kinds of NBA players are there?](https://sahildshah1.github.io/nbaplayers/)
-
 
 ## Explanations of technical concepts 
 
@@ -37,34 +22,12 @@ Random Forests](https://drive.google.com/file/d/1oma2KF-FnkC4M2D0ThoQMsdLLT-H2bw
 Algorithms to anayze gene expression profiles](https://drive.google.com/file/d/1ISUlflpnK2It3iAI_bXyDXxx3R0-bnCr/view?usp=sharing)
 
 
-## Blog posts and presentations about coding 
-
-[Hardware and software that I use](https://sahildshah1.github.io/usesthis/)
-
-[Getting started with NU's computing cluster](https://sahildshah1.github.io/wikiQuest/)
+## Presentations about coding 
 
 [Introduction to Jupyter notebooks](https://docs.google.com/presentation/d/1HsDFKNDNp4-dms5JUGZiv8SDOpfa2FzxiOizS65_gig/edit?usp=sharing)
 
 [Introduction to Shiny apps](https://github.com/sahildshah1/shiny-groupmtg/blob/master/figs/main.pdf)
 
 [Introduction to R Workshop](https://github.com/sahildshah1/mglcRWorkshop/blob/master/RWorkshop.pdf)
-
-
-
-
-<!-- ## Analyses of interesting data sets 
-
-https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/
-
-https://www.it.northwestern.edu/research/campus-events/data-camp.html
-
-
-## Blog posts about data in the news 
-
-https://publichealth.gwu.edu/sites/default/files/downloads/projects/PRstudy/Acertainment%20of%20the%20Estimated%20Excess%20Mortality%20from%20Hurricane%20Maria%20in%20Puerto%20Rico.pdf
-
-Cambridge Analytica and NICO talk?
-https://www.youtube.com/watch?v=IMwOEsTR_is -->
-
 
 
