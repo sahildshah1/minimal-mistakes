@@ -21,9 +21,7 @@ amongst its students. I received a BS *magna cum laude* from Columbia University
 and an MS from Northwestern University. 
 
 I enjoy working in teams to solve problems and am currently looking for data
-science opportunities. I'm willing to relocate. For my resume, [see here.](https://drive.google.com/file/d/1bTb-IgDiq-z3qd0DXntxWa1UtTDBYVKz/view?usp=sharing)
-
-
+science opportunities. I'm willing to relocate. For my resume, [see here.](https://drive.google.com/file/d/1HEjVull6jIBldHTRUX3vibv2dCEvAhV_/view?usp=sharing)
 
 
 ## About This Site
