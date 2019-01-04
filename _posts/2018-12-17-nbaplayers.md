@@ -99,12 +99,12 @@ What's the average salary and PER of each cluster?
 
 ### Selecting the number of clusters using model inertia and silhouette coefficients
 
-Since we have to specify the number of groups to cluster the data into before
-applying K-Means and we don't know the number of groups a priori, we use the
+Since we have to specify the number of groups to cluster the data into (K) before
+applying K-Means and we don't know K a priori, we use the
 model inertia (total within-cluster sum-of-squares) and silhouette coefficient to
-determine the number of clusters. 
+determine K. 
 To learn more about determining the
-number of clusters in a data set, see [here.](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
+number of clusters (K) in a data set, see [here.](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
 Here's what the inertia and silhouette look
 like for K = 1 to K = 10 clusters. Note that the silhouette isn't defined 
 for K = 1 cluster. 
@@ -118,8 +118,7 @@ the marginal decreases drops or there is an elbow in the plot. The silhouette
 coefficient for a sample quantifies how close the sample is to other samples
 in its cluster vs other clusters and ranges from [-1,1]. A value of +1 indicates the sample is 
 far away from neighboring clusters and a negative value indicates the sample
-might be assigned to the wrong cluster.  
-To learn more about the silhouette coefficient,
+might be assigned to the wrong cluster. To learn more about the silhouette coefficient,
 see [here.](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
 
 Since the average silhouette coefficient at K = 2 and K = 3 are close and
