@@ -114,12 +114,15 @@ for K = 1 cluster.
 Above is a plot of Inertia vs Number of clusters (K) and each point is labeled
 with the average silhouette coefficient for K clusters. The inertia decreases as the number of clusters increases.
 We use it to determine the number of clusters by looking for the point K where
-the marginal decreases drops or there is an elbow in the plot. The silhouette
-coefficient for a sample quantifies how close the sample is to other samples
-in its cluster vs other clusters and ranges from [-1,1]. A value of +1 indicates the sample is 
+there is an elbow in the plot. The silhouette
+coefficient for a sample ranges from [-1,1]. A value of +1 indicates the sample is 
 far away from neighboring clusters and a negative value indicates the sample
 might be assigned to the wrong cluster. To learn more about the silhouette coefficient,
 see [here.](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
+
+<!-- quantifies how close the sample is to other samples
+in its cluster vs other clusters and
+ -->
 
 Since the average silhouette coefficient at K = 2 and K = 3 are close and
 there isn't an unambiguous elbow at those points, I chose to explore and
