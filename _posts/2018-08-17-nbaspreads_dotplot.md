@@ -10,6 +10,12 @@ summer, it sparked a debate amongst my friends about whether Vegas is accurate
 in setting spreads over the course of a season across the NBA  (or if there's a bias that we
 could theoretically exploit to `beat the house.')
 
+
+The **Python code I wrote
+to pull, scrub and analyze the data is available** on GitHub as a 
+[Jupyter notebook](https://nbviewer.jupyter.org/github/sahildshah1/funData-playground/blob/master/deliverables/nba-spreads.ipynb#)
+
+
 In addition to taking bets on whether a team will win or lose straight up, Vegas
 also offers a `spread' that handicaps the favored team. Vegas wants to set the point
 spreads so that the chance of a team winning or losing is 50-50. This
@@ -27,7 +33,7 @@ to pull, scrub and analyze the data is available** on GitHub as a
 [Jupyter notebook](https://nbviewer.jupyter.org/github/sahildshah1/funData-playground/blob/master/deliverables/nba-spreads.ipynb#)
 
 Here's what the win-loss records against the spread and straight up look like
-for the 2017-2017 NBA season: 
+for the 2017-2018 NBA season: 
 
 
 ![dotplot]({{ site.url }}{{ site.baseurl }}/assets/images/deliverables-nbaspreadsipynb-dotplot.png){: .align-center}
