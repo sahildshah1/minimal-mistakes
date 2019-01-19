@@ -14,22 +14,21 @@ relational databases (organized collections of tables) using (Postgre)SQL
 
 - A query is a request for data from a database table. Select data from a table using a SELECT statement. Select all the unique values from a column, you can use the DISTINCT keyword.
 
-- COUNT(*): number of rows in the table, e.g. COUNT(birthdate): *number
-of non-missing values*, e.g. COUNT(DISTINCT birthdate): number of distinct
+- COUNT(*): number of rows in the table, e.g. COUNT(birthdate): **number
+of non-missing values**, e.g. COUNT(DISTINCT birthdate): number of distinct
 values in the column  
 
 
 ### Filtering rows
 
-- WHERE keyword allows you to filter based on both text and numeric values in a table. *PostgreSQL uses single ‘‘  not double ““ *
+- WHERE keyword allows you to filter based on both text and numeric values in a table. **PostgreSQL uses single ‘‘  not double ““**
 
-- BETWEEN keyword provides a useful shorthand for filtering values within a specified range. e.g. WHERE release_year BETWEEN 1990 AND 2000. *BETWEEN is inclusive*
+- BETWEEN keyword provides a useful shorthand for filtering values within a specified range. e.g. WHERE release_year BETWEEN 1990 AND 2000. **BETWEEN is inclusive**
 
 -  IN operator allows you to specify multiple values in a WHERE clause. e.g.
 WHERE age IN (2, 4, 6, 8, 10); WHERE release_year NOT IN (2015)
 
-- the LIKE operator can be used in a WHERE clause to search for a pattern in a column. ** % wildcard will match zero, one, or many characters in text.*
-* The _ wildcard will match a single character*  e.g. title LIKE 'A%'
+- the LIKE operator can be used in a WHERE clause to search for a pattern in a column. **% wildcard will match zero, one, or many characters in text.The _ wildcard will match a single character**  e.g. title LIKE 'A%'
 
 ### Aggregate functions
 
@@ -45,7 +44,7 @@ COUNT deathdate NULL?  -->
 ### Sorting, grouping and joins
 
 
-- ORDER BY keyword is used to sort results in ascending or descending order according to the values of one or more columns. It will sort by the first column specified, then sort by the next, then the next, and so on. *Order of columns is important!* 
+- ORDER BY keyword is used to sort results in ascending or descending order according to the values of one or more columns. It will sort by the first column specified, then sort by the next, then the next, and so on. **Order of columns is important!** 
 
 - If you want to sort the results in descending order, you can use the DESC keyword. e.g. ORDER BY name DESC;
 
