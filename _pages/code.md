@@ -33,6 +33,9 @@ title: Code written for various analyses
 
 [Introduction to Jupyter notebooks](https://docs.google.com/presentation/d/1HsDFKNDNp4-dms5JUGZiv8SDOpfa2FzxiOizS65_gig/edit?usp=sharing)
 
+[Notes from DataCamp’s SQL courses](https://sahildshah1.github.io/datacamp_sql/)
+
+
 
 
 

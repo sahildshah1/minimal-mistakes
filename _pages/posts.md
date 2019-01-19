@@ -49,6 +49,8 @@ Algorithms to anayze gene expression profiles](https://drive.google.com/file/d/1
 
 [Introduction to R Workshop](https://github.com/sahildshah1/mglcRWorkshop/blob/master/RWorkshop.pdf)
 
+[Notes from DataCamp’s SQL courses](https://sahildshah1.github.io/datacamp_sql/)
+
 
 
 
