@@ -3,7 +3,7 @@ published: true
 title: "Notes from DataCamp's SQL courses"
 ---
 
-Here are the notes I took when I was learing new [SQL skills on DataCamp](https://www.datacamp.com/courses/tech:sql)
+Here are the notes I took when I was learning new [SQL skills on DataCamp](https://www.datacamp.com/courses/tech:sql)
 
 ## Intro to SQL for Data Science
 
@@ -21,7 +21,7 @@ values in the column
 
 ### Filtering rows
 
-- WHERE keyword allows you to filter based on both text and numeric values in a table. **PostgreSQL uses single ‘‘  not double ““**
+- WHERE keyword allows you to filter based on both text and numeric values in a table. **PostgreSQL uses single  qutoes '  not double quotes "**
 
 - BETWEEN keyword provides a useful shorthand for filtering values within a specified range. e.g. WHERE release_year BETWEEN 1990 AND 2000. **BETWEEN is inclusive**
 
@@ -32,7 +32,7 @@ WHERE age IN (2, 4, 6, 8, 10); WHERE release_year NOT IN (2015)
 
 ### Aggregate functions
 
-- SQL assumes that if you divide an integer by an integer, you want to get an integer back. So be careful when dividing! e.g. 4/3 = 1
+- SQL assumes that if you divide an integer by an integer, you want to get an integer back. **So be careful when dividing!** e.g. 4/3 = 1
 If you want more precision when dividing, you can add decimal places to your number  4.0/3.0 = 1.33
 
 <!-- 
@@ -48,7 +48,7 @@ COUNT deathdate NULL?  -->
 
 - If you want to sort the results in descending order, you can use the DESC keyword. e.g. ORDER BY name DESC;
 
-- GROUP BY allows you to group a result by one or more columns. **SELECT columns you want to use in GROUP BY clause**. The column's that are not in GROUP BY clause should be used to calculate some kind of value (e.g. COUNT(), MAX()) or SQL will return an error. e.g. SELECT language, SUM(gross) FROM films GROUP BY language
+- GROUP BY allows you to group a result by one or more columns. **SELECT columns you want to use in GROUP BY clause**. The columns that are not in GROUP BY clause should be used to calculate some kind of value (e.g. COUNT(), MAX()) or SQL will return an error. e.g. SELECT language, SUM(gross) FROM films GROUP BY language
 
 
 -  Note that ORDER by always goes after GROUP BY. Make sure to always put the ORDER BY clause at the end of your query. You can't sort values that you haven't calculated yet!
