@@ -13,7 +13,7 @@ approached by either (1a) seeking to determine the mechanisms by which genomic
 loci contribute to disease or (1b) seeking to understand the pathways that
 contribute to disease. 
 
-To read more about how the computational biology field is organized, see
+To read more about how the field of computational biology is organized, see
 [here](https://paperpile.com/shared/q7O3ca)
 
 **The goal of our work in my thesis is (1b) to discover molecular mechanisms by
