@@ -14,7 +14,7 @@ loci contribute to disease or (1b) seeking to understand the pathways that
 contribute to disease. 
 
 To read more about how the computational biology field is organized, see
-[here](https://paperpile.com/shared/VmFVX7)
+[here](https://paperpile.com/shared/q7O3ca)
 
 **The goal of our work in my thesis is (1b) to discover molecular mechanisms by
 seeking to understand the pathways that contribute to disease:**
