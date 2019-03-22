@@ -11,7 +11,7 @@ broadly grouped into three categories: (1) â€˜discovering molecular mechanismsâ€
 survival or the efficacy of therapy'. Discovering molecular mechanisms can be
 approached by either (1a) seeking to determine the mechanisms by which genomic
 loci contribute to disease or (1b) seeking to understand the pathways that
-contribute to disease. 
+contribute to disease [Hasin et al. 2017, Bersanelli et al. 2016]
 
 To read more about how the field of computational biology is organized, see
 [here](https://paperpile.com/shared/q7O3ca)
