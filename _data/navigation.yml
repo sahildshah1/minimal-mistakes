@@ -4,6 +4,8 @@ main:
   
   - title: "About Me"
     url: /aboutme/
+  - title: "Research"
+    url: /research/
   - title: "Code"
     url: /code/
   - title: "Presentations"
