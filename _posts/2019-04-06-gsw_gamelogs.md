@@ -40,7 +40,7 @@ the value of "feature importance" the more important it is to the prediction
 function. We can therefore interpret the stats with the highest "feature importance"
 as most important for predicting a GSW win or loss.
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/GSWGameLog-bar.png){: .align-center}
+![barplot]({{ site.url }}{{ site.baseurl }}/assets/images/GSWGameLog-bar.png){: .align-center}
 
 Above is a horizontal bar plot of feature importance for 16 different stats 
 arranged from most important (at the top) to least important (at the bottom).
@@ -72,8 +72,8 @@ more about node purity, see [here.](https://towardsdatascience.com/what-is-a-dec
 <!-- 
  "A node is 100% impure when a node is split evenly 50/50 and 100% pure when all of its data belongs to a single class."  -->
 
-<!-- 
-** How is it computed: ** 
+
+<!-- ** How is it computed: ** 
 
 https://scikit-learn.org/stable/modules/ensemble.html#feature-importance-evaluation
 
@@ -82,8 +82,8 @@ https://scikit-learn.org/stable/modules/ensemble.html#feature-importance-evaluat
 [L2014]	G. Louppe, “Understanding Random Forests: From Theory to Practice”, PhD Thesis, U. of Liege, 2014. 
 See: https://medium.com/the-artificial-impostor/feature-importance-measures-for-tree-models-part-i-47f187c1a2c3
 
----> Samples a feature contributes to combined with purity by weighing Weight decrease in node impurity by number of samples it splits  -->
-
+Samples a feature contributes to combined with purity by weighing Weight decrease in node impurity by number of samples it splits 
+ -->
 <!-- ## Helpful resources: 
 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.bar.html
