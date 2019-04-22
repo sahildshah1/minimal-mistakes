@@ -44,10 +44,12 @@ as most important for predicting a GSW win or loss.
 
 Above is a horizontal bar plot of feature importance for 16 different stats 
 arranged from most important (at the top) to least important (at the bottom).
-According to this  analysis, the variables most important for predicting
+Therefore, the variables most important for predicting
 a GSW win or loss are Team (GSW) FG% (Field Goal %) and Team (GSW) 3P% (3 Point %) followed by Opponent FG% 
-and Team (GSW) AST (Assists). Steve Kerr should therefore be looking at not only the 
-opponents FG% and his team's AST but also how well the GSW are shooting.  
+and Team (GSW) AST (Assists).
+
+According to this analysis, Steve Kerr should priortize looking at his teams's FG% 
+and 3P% over looking at his team's turnovers. 
 
 
 ## Methods: Notes on using Random Forests to perform this analysis 
