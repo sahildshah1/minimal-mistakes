@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahil Shah"
+  name             : "Sahil D Shah"
   avatar           : "/assets/images/SDS-headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Applied Math / Computational Biology / Data Science — PhD Student at Northwestern University"
+  bio              : "Data Scientist | Applied Math PhD"
   location         : "Chicago"
-  email            : "sahil.shah@u.northwestern.edu"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
