@@ -83,9 +83,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sahil D Shah"
+  name             : "Sahil D. Shah, PhD"
   avatar           : "/assets/images/SDS-headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist | Applied Math PhD"
+  bio              : "Data Science Engineer"
   location         : "Chicago"
   email            : 
   uri              :
