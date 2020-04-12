@@ -6,10 +6,11 @@ author_profile: true
 
 ## About Me
 
-I'm a PhD Candidate in the [Department of Applied Mathematics](https://www.mccormick.northwestern.edu/applied-math/) and 
+I'm a Data Scientist at Civis Analytics. Prior to working at Civis Analytics, I completed a
+PhD in the [Department of Applied Mathematics](https://www.mccormick.northwestern.edu/applied-math/) and 
 [Braun Computational Biology Lab](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23119) at Northwestern University. The focus of my research
-is on developing statistical methods to find genes and mechanisms
-that  contribute to disease from biological data. My interests
+was on developing statistical methods to find genes and mechanisms
+that contribute to disease from biological data. My interests
 include statistics, machine learning, data analysis, programming in R and
 Python, and scientific communication.
 
@@ -20,8 +21,11 @@ the engineering school's graduate student council which promotes community
 amongst its students. I received a BS *magna cum laude* from Columbia University 
 and a MS from Northwestern University. 
 
-I enjoy working in teams to solve problems and am currently looking for data
-science opportunities. I'm willing to relocate. For my resume, [see here.](https://drive.google.com/file/d/1-aXxS_yfp3WJINEmG5ckBTJ1ZGCsWRm_/view?usp=sharing)
+I enjoy working in teams to solve problems. 
+<!-- and am currently looking for data
+science opportunities. I'm willing to relocate. 
+ -->
+For my resume, [see here.](https://drive.google.com/file/d/1-aXxS_yfp3WJINEmG5ckBTJ1ZGCsWRm_/view?usp=sharing)
 
 
 ## About This Site
