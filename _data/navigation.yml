@@ -4,20 +4,13 @@ main:
   
   - title: "About Me"
     url: /aboutme/
-  - title: "Research"
-    url: /research/
-  - title: "Code"
-    url: /code/
-  - title: "Presentations"
-    url: /presentations/
-  - title: "All Posts"
-    url: /posts/
-  # - title: "Tutorials"
-  #   url: /tutorials/
-  # - title: "Talks"
-  #   url: /talks/
-  # - title: "Resources"
-  #   url: /resources/
+  - title: "Talks"
+    url: /talks/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resources"
+    url: /resources/
+
 
  
   # - title: "Quick-Start Guide"
