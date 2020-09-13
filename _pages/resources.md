@@ -1,16 +1,15 @@
-
 ---
 layout: single
 permalink: /resources/
 author_profile: true
--- 
+---
 
 <!-- 
 Descriptoin:
 
 Complied from Google Docs wiki-Coding, ~/Desktop 2018  02 -16 -->
 
-Here are the guides, tools, papers, etc that I keep coming back to:
+<!-- Here are the guides, tools, papers, etc that I keep coming back to:
 
 ## Coding best practices:
 
@@ -40,4 +39,4 @@ Here are the guides, tools, papers, etc that I keep coming back to:
 - https://jxyzabc.blogspot.com/
 - https://doi.org/10.1371/journal.pcbi.1005619
 - https://github.com/jtleek/readingpapers
-
+ -->
