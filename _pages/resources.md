@@ -4,6 +4,20 @@ permalink: /resources/
 author_profile: true
 ---
 
+
+
+
+## Blog posts and presentations about coding 
+
+[Hardware and software that I use](https://sahildshah1.github.io/usesthis/)
+
+[Getting started with NU's computing cluster](https://sahildshah1.github.io/wikiQuest/)
+
+[Introduction to Jupyter notebooks](https://docs.google.com/presentation/d/1HsDFKNDNp4-dms5JUGZiv8SDOpfa2FzxiOizS65_gig/edit?usp=sharing)
+
+[Notes from DataCamp’s SQL courses](https://sahildshah1.github.io/datacamp_sql/)
+
+
 <!-- 
 Descriptoin:
 
