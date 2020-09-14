@@ -2,6 +2,8 @@
 layout: single
 permalink: /projects/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 

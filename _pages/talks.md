@@ -2,6 +2,8 @@
 layout: single
 permalink: /talks/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 ## Explanations of technical concepts 
