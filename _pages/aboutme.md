@@ -2,6 +2,8 @@
 layout: single
 permalink: /aboutme/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 ## About Me
