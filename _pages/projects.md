@@ -6,17 +6,18 @@ toc: true
 toc_sticky: true
 ---
 
+# Projects 
 
+## Analyses of interesting datasets
 
-## Analyses of interesting datasets (using Python)
+[What stats should Stever Kerr look at?](https://sahildshah1.github.io/gsw_gamelogs/)
 
 [Are Vegas’s NBA spreads accurate?](https://sahildshah1.github.io/nbaspreads_dotplot/)
 
 [How many different kinds of NBA players are there?](https://sahildshah1.github.io/nbaplayers/)
 
 
-
-## (R) Blog posts about my PhD research 
+## Blog posts about my PhD research 
 
 [Designing a new tool to find disease-associated genes](https://sahildshah1.github.io/GeneSurrounder/)
 
