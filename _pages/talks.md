@@ -6,7 +6,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Talks 
 
 ## Journal club presentations
 

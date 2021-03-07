@@ -6,8 +6,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Projects 
-
 ## Analyses of interesting datasets
 
 [What stats should Stever Kerr look at?](https://sahildshah1.github.io/gsw_gamelogs/)
