@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
+# Talks 
+
 ## Journal club presentations
 
 [TSNet (Petralia et al. 2018): An algorithm that infers tumor cell specific 
