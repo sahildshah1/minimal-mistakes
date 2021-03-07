@@ -10,9 +10,9 @@ toc_sticky: true
 
 I'm a Data Scientist at Civis Analytics. Prior to working at Civis Analytics, I completed a
 PhD in the [Department of Applied Mathematics](https://www.mccormick.northwestern.edu/applied-math/) and 
-[Braun Computational Biology Lab](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23119) at Northwestern University. The focus of my research
-was on developing statistical methods to find genes and mechanisms
-that contribute to disease from biological data. 
+[Braun Computational Biology Lab](https://sites.northwestern.edu/braunlab/biocomplexity/) 
+at Northwestern University. The focus of my research was on developing statistical 
+methods to find disease associated genes biological data. 
 
 During my PhD program, I interned as a data scientist at Tempus, a technology
 company that organizes and analyzes biomedical data to personalize cancer
